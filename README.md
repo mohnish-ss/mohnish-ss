@@ -2,7 +2,7 @@
 
 ## About me 👋
 
-I am a Grade 12 High School student at Earl of March Secondary!
+I am a Grade 12 High School student at Earl of March SS
 
 I am currently expanding my knowledge of competitive programming and using frameworks to create full-stack websites.
 
