@@ -1,23 +1,29 @@
-# Hi there I'm Mohnish!
+# About Me
+I’m a Computer Science student pursuing a Bachelor's Degree at Carleton University with a passion for technology and problem-solving.<br><br>
+Currently, I’m expanding my knowledge in competitive programming and diving into full-stack web development using various frameworks. Mainly working on front-end development, I enjoy creating simple, yet modern UI's that are intuitive for users to navigate. <br><br>
+I’ve worked on a range of projects over the past few years, which you can explore in my repositories. 
 
-## About me 👋
+# Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohnish-sheth)
+[![Devpost](https://img.shields.io/badge/Devpost%0A%0A-023047.svg?style=flat&logo=devpost&logoColor=white)](https://devpost.com/mohnish_s)
 
-Incoming Carleton University Student majoring in Computer Science!
+# Tech Stack
 
-I am currently expanding my knowledge of competitive programming and using frameworks to create full-stack websites.
+## Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 
-Some of the repos you see on my profile are the projects I have worked on in the past few years.
+## Frameworks & Databases
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
 
-## Languages 🧑‍💻
-- Python
-- JavaScript
-- Java
-- HTML/CSS
-- C#
-
-## Frameworks/Databases 🏗️
-- MongoDB
-- EJS
-- Node.js
-- Express.js
-- Learning React.js
+## Skills
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
+![Render](https://img.shields.io/badge/Render-%23000000.svg?style=flat&logo=render&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
