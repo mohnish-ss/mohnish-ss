@@ -6,6 +6,7 @@ I’ve worked on a range of projects over the past few years, which you can expl
 # » Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohnish-sheth)
 [![Devpost](https://img.shields.io/badge/Devpost%0A%0A-023047.svg?style=flat&logo=devpost&logoColor=white)](https://devpost.com/mohnish_s)
+[![LeetCode](https://img.shields.io/badge/LeetCode%0A%0A-ffa116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/MohnishS/) 
 
 # » Tech Stack
 
