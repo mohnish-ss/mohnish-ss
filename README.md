@@ -7,6 +7,7 @@ I’ve worked on a range of projects over the past few years, which you can expl
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohnish-sheth)
 [![Devpost](https://img.shields.io/badge/Devpost%0A%0A-023047.svg?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/mohnish_s)
 [![LeetCode](https://img.shields.io/badge/LeetCode%0A%0A-ffa116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/MohnishS/) 
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://personal-website-minoushs-projects.vercel.app/)
 
 # » Tech Stack
 
