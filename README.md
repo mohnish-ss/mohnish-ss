@@ -1,5 +1,5 @@
 # » About Me
-I’m an Honours Computer Science student pursuing a Bachelor's Degree at Carleton University with a passion for technology and problem-solving.<br><br>
+I’m an Honours Computer Science student pursuing a Bachelor's Degree at Queen's University with a passion for technology and problem-solving.<br><br>
 Currently, I’m expanding my knowledge in competitive programming and diving into full-stack web development using various frameworks. Mainly working on front-end development, I enjoy creating simple, yet modern UI's that are intuitive for users to navigate. <br><br>
 I’ve worked on a range of projects over the past few years, which you can explore in my repositories. 
 
